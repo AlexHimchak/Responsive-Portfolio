@@ -1,0 +1,162 @@
+body{
+	padding: 0;
+	margin: 0;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+  	line-height: 150%;
+  	color: #333;
+  	background: #efeee7;
+
+}
+.Alex{
+	padding-left: 25px;
+	padding-right: 25px;
+
+}
+header {
+  
+  background: white;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  	
+}
+
+#topleft {
+	width: 16.5%;
+	padding: 20px 0;
+	margin: 0 auto;
+ 	margin-bottom: 20px;
+	font-size: 70px;
+	color: #0c0c0c;
+	text-align: center;
+	background: #FFFAF0;
+	height: 70px;
+	float: left;
+	position: fixed; top: 0%; left: 0%;
+	border-style: solid;
+  	border-width: medium;
+	
+	
+}
+
+#middle {
+	width: 32%;
+	padding: 20px 0;
+	margin: 0 auto;
+ 	margin-bottom: 20px;
+	font-size: 55px;
+	color: #0c0c0c;
+	text-align: center;
+	background: teal;
+	height: 70px;
+	float: left;
+	position: fixed; top: 0%; left: 16.5%;
+	border-style: solid;
+  	border-width: medium;
+
+}
+
+#topright {
+	
+	width: 51.5%;
+	float: left;
+	background: #FFFAF0;
+	height: 110px;
+	text-align: center;
+	font-size: 25px;
+	margin: 0 auto;
+	position: fixed; top: 0%; right: 0%;
+	border-style: solid;
+	border-width: medium;
+	
+}
+
+}	
+a {
+	color: #d21034;
+}
+.container {
+	padding-top: 125px;
+	width: 960px;
+ 	margin: 0 auto;
+
+}
+	
+#main-bio,
+#contact-info,
+#bio-image {
+	float: left;
+	text-align: left;
+	background: white;
+	margin:0 auto;
+	width: 270px;
+	border-style: solid;
+    border-width: medium;
+    font-family: “Century Gothic”, CenturyGothic, AppleGothic, sans-serif;
+
+}
+
+#main-bio {
+	width: 650px;
+	margin: 0 auto;
+	margin-bottom: 25px;
+
+
+}
+
+#contact-info {
+  	width: 270px;
+  	float: right;
+  	
+}
+
+#bio-image {
+	width: 200px;
+	height: 200px;
+	margin-right: 20px;
+	margin-top: 5px;
+
+
+}
+
+footer {
+  padding: 20px;
+  clear: both;
+  background: teal;
+  text-align: center;
+  border-style: solid;
+  border-width: medium;
+}
+input{
+	font-size: 40px;
+	width: 90%;
+}
+li {
+  list-style-type: none;
+  display: inline;
+  margin: 0;
+  padding: 0;
+
+}
+h1{
+	font-family: 'Satisfy', cursive;
+	margin: 5px auto;
+}
+hr {
+  height: 10px;
+  border: 0;
+  box-shadow: 0 10px 10px -10px #8c8c8c inset;
+}
+h2 {
+	font-family: 'Indie Flower', cursive;
+	font-size: 35px;
+	text-align: left;
+	margin:5px auto;
+
+
+}
+h3 {
+	font-family: 'Indie Flower', cursive;
+	font-size: 35px;
+	margin:5px auto;
+
+}
